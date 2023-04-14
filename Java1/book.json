@@ -1,0 +1,18 @@
+[
+  {
+    "book": {
+      "price": "500K",
+      "author": "Nguyen Van Hung",
+      "ID": "S01",
+      "Name": "Thao Tung Tam Ly"
+    }
+  },
+  {
+    "book": {
+      "price": "550k",
+      "author": "Nguyen Van Hung",
+      "ID": "S02",
+      "Name": "Cach Lam Giau"
+    }
+  }
+]
